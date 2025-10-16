@@ -1,3 +1,0 @@
-- EDA with Visualization Lab
-- Interactive Visual Analytics with Folium lab (Only the final tasks are left to finish)
-- Complete the Machine Learning Prediction lab
